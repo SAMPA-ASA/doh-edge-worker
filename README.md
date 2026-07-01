@@ -46,4 +46,12 @@ https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev/dns-query
 MIT License
 ```
 </div>
+
+---
+- لینک کانال تلگرام: https://t.me/Sampa_Asa <br>
+- راه ارتباطی: https://t.me/Sampa_Asa?direct
+---
+
+به امید روزی که همه به اینترنت آزاد واقعی دست پیدا کنیم. 🕊
+
 </div>
